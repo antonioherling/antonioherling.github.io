@@ -10,9 +10,12 @@ redirect_from:
 
 About
 ======
-I will start my PhD in Statistics & Data Science at Carnegie Mellon University in August 2023. Prior to that, I received a BS in Statistics & Data Science from the University of São Paulo, where I was fortunate to be advised by professors Aquiles Kalatzis and [Carlos Martins-Filho](https://spot.colorado.edu/~martinsc/index.html).
+I am a First-year Statistics & Data Science PhD student at Carnegie Mellon University. Prior to that, I received a BS in Statistics & Data Science from the University of São Paulo, where I was fortunate to be advised by professors Aquiles Kalatzis and [Carlos Martins-Filho](https://spot.colorado.edu/~martinsc/index.html).
 
-I had great pleasure doing research on responsible AI, regression discontinuity designs, and semi-parametric regression models as an undergraduate student. However, I would like to explore new areas including but not limited to reinforcement learning, causal inference, and fairness in machine learning.
+Currently I am starting my Advanced Data Analysis project on likelihood-free inference applied to high-energy physics. I am extremely fortunate to be advised by Professor [Ann B. Lee](https://www.stat.cmu.edu/~annlee/) and [Tommaso Dorigo](https://userswww.pd.infn.it/~dorigo/).
+
+<!-- 
+I had great pleasure doing research on responsible AI, regression discontinuity designs, and semi-parametric regression models as an undergraduate student. However, I would like to explore new areas including but not limited to reinforcement learning, causal inference, and fairness in machine learning. -->
 <!-- My research interests lay primarily in responsible AI, regression discontinuity designs, semi-parametric regression models, and Bayesian statistics. -->
 
 
