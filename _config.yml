@@ -13,7 +13,7 @@ title                    : "Antonio Carlos"
 title_separator          : "-"
 name                     : &name "Antonio Carlos Herling Ribeiro Junior"
 description              : &description "personal description"
-url                      : https://https://antonioherling.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://antonioherling.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "antonioherling/antonioherling.github.io"
 
