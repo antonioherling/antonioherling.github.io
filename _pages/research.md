@@ -7,9 +7,6 @@ redirect_from:
   - /research
 ---
 
-Research
-======
-
 I am broadly interested in rerandomization, equivalence tests, and econometrics. My work is often inspired by problems in causal inference, social sciences, and economics.
 
 Papers
