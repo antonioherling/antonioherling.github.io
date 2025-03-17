@@ -12,11 +12,17 @@ main:
     url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+
+  - title: "Work"
+    url: /work/ 
     
   # - title: "CV"
   #   url: /cv/
-    
+
   - title: "CV"
-    url: /cv-json/
+    url: /files/CV.pdf
+    
+  # - title: "CV"
+  #   url: /cv-json/
     
