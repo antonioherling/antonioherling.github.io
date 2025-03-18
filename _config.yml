@@ -22,7 +22,7 @@ repository               : "antonioherling/antonioherling.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "antonio_2022.jpeg"
   name             : "Antônio Carlos Herling Ribeiro Junior"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Statistics and Data Science"
