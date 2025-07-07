@@ -12,9 +12,11 @@ I am broadly interested in rerandomization, equivalence tests, and econometrics.
 Papers
 ------
 
-Ribeiro Junior, A. C. H., Branson Z. Rerandomization under missing outcomes. Working paper (2025+)
+Ribeiro Junior, A. C. H., Branson, Z. Rerandomization: A Review and Simulation Study. In preparation (2025+)
 
-Ribeiro Junior, A. C. H., Branson Z. Rerandomization with propensity score. Working paper (2025+)
+Ribeiro Junior, A. C. H., Branson, Z. Autoencoder rerandomization. In preparation (2025+)
+
+Carzon, J., Masserano, L., Shen, A., Ingram, J., Ribeiro Junior, A. C. H., Dorigo, T., Doro, M., Speagle, J. Izbicki, R., Lee, A. Trustworthy scientific inference for inverse problems with generative models. Under review at Nature Comms (2025)
 
 Kalatzis, A. E. G., Martins-Filho C., Ribeiro Junior, A. C. H. [Financial constraints and firm efficiency: Further empirical evidence](https://www.sciencedirect.com/science/article/abs/pii/S1544612324015538). Finance Research Letters (2025).
 
