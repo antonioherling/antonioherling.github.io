@@ -12,7 +12,7 @@ I am broadly interested in rerandomization, equivalence tests, and econometrics.
 Papers
 ------
 
-Ribeiro Junior, A. C. H., Branson, Z. Rerandomization: A Review and Simulation Study. In preparation (2025+)
+Ribeiro Junior, A. C. H., Branson, Z. Rerandomization: A Review and A Pracitioner's Guide. In preparation (2025+)
 
 Ribeiro Junior, A. C. H., Branson, Z. Autoencoder rerandomization. In preparation (2025+)
 
