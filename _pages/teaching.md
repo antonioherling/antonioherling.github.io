@@ -12,6 +12,7 @@ redirect_from:
 
 Carnegie Mellong University
 ------
+Fall 2025 - 46-921 & 923 Financial Data Science I & II<br>
 Summer 2025 - 36-350 Statistical Computing - Instructor<br>
 Spring 2025 -  36-462/662 Statistical Machine Learning - Head TA<br>
 Fall 2024 - 46-921 & 923 Financial Data Science I & II<br>
@@ -21,7 +22,6 @@ Fall 2023 - 36-401 Modern Regression<br>
 Amazon, Machine Learning University
 -----
 Summer 2024 - Advanced Prompt Engineering for LLMs - Volunteer TA<br>
-
 
 University of São Paulo
 ------
