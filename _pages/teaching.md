@@ -12,6 +12,7 @@ redirect_from:
 
 Carnegie Mellong University
 ------
+Spring 2026 - 36-708 The ABCDE of Statistical Methods in Machine Learning <br>
 Fall 2025 - 46-921 & 923 Financial Data Science I & II<br>
 Summer 2025 - 36-350 Statistical Computing - Instructor<br>
 Spring 2025 -  36-462/662 Statistical Machine Learning - Head TA<br>
