@@ -12,9 +12,9 @@ I am broadly interested in causal inference and experimental designs. My researc
 Papers
 ------
 
-Ribeiro Junior, A. C. H., Branson, Z. [Does Rerandomization Help Beyond Covariate Adjustment? A Review and Guide for Theory and Practice](https://arxiv.org/abs/2512.05290). To be submitted (2025+)
+Ribeiro Junior, A. C. H., Branson, Z. [Does Rerandomization Help Beyond Covariate Adjustment? A Review and Guide for Theory and Practice](https://arxiv.org/abs/2512.05290). Submittted to Statistical Science (2025+)
 
-Carzon, J., Masserano, L., Shen, A., Ingram, J., Ribeiro Junior, A. C. H., Dorigo, T., Doro, M., Speagle, J. Izbicki, R., Lee, A. [Trustworthy scientific inference for inverse problems with generative models](https://arxiv.org/abs/2508.02602). Submitted (2025+)
+Carzon, J., Masserano, L., Shen, A., Ingram, J., Ribeiro Junior, A. C. H., Dorigo, T., Doro, M., Speagle, J. Izbicki, R., Lee, A. [Trustworthy scientific inference for inverse problems with generative models](https://arxiv.org/abs/2508.02602). Submitted to Machine Learning: Science and Technology (2025+)
 
 Kalatzis, A. E. G., Martins-Filho C., Ribeiro Junior, A. C. H. [Financial constraints and firm efficiency: Further empirical evidence](https://www.sciencedirect.com/science/article/abs/pii/S1544612324015538). Finance Research Letters (2025).
 
