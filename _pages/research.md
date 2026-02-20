@@ -12,6 +12,10 @@ I am broadly interested in causal inference and experimental designs. My researc
 Papers
 ------
 
+Ribeiro Junior, A. C. H., Branson, Z. Pilot-Informed Rerandomization with High-Dimensional Covariates. In preparation (2026+)
+
+Ribeiro Junior, A. C. H., Branson, Z. Quantile-balanced Rerandomization. In preparation (2026+)
+
 Ribeiro Junior, A. C. H., Branson, Z. [Does Rerandomization Help Beyond Covariate Adjustment? A Review and Guide for Theory and Practice](https://arxiv.org/abs/2512.05290). Submittted to Statistical Science (2025+)
 
 Carzon, J., Masserano, L., Shen, A., Ingram, J., Ribeiro Junior, A. C. H., Dorigo, T., Doro, M., Speagle, J. Izbicki, R., Lee, A. [Trustworthy scientific inference for inverse problems with generative models](https://arxiv.org/abs/2508.02602). Submitted to Machine Learning: Science and Technology (2025+)
