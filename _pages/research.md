@@ -12,7 +12,7 @@ I am broadly interested in causal inference and experimental designs. My researc
 Papers
 ------
 
-Ribeiro Junior, A. C. H., Rerandomization with Continuus Treatments. In preparation (2026+)
+Ribeiro Junior, A. C. H. Rerandomization with Continuus Treatments. In preparation (2026+)
 
 Ribeiro Junior, A. C. H., Branson, Z. Pilot-Informed Rerandomization with High-Dimensional Covariates. In preparation (2026+)
 
