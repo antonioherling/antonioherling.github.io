@@ -20,7 +20,7 @@ Papers
 
 **Ribeiro Junior, A. C. H.** [Langevin-Gradient Rerandomization](https://arxiv.org/pdf/2604.07524). To be submitted (2026+)
 
-**Ribeiro Junior, A. C. H.**, Branson, Z. [Does Rerandomization Help Beyond Covariate Adjustment? A Review and Guide for Theory and Practice](https://arxiv.org/abs/2512.05290). Submittted to Statistical Science (2025+). **Received the** [**Mihaela Serban award**](https://www.cmu.edu/dietrich/statistics-datascience/about/awards/index.html)
+**Ribeiro Junior, A. C. H.**, Branson, Z. [Does Rerandomization Help Beyond Covariate Adjustment? A Review and Guide for Theory and Practice](https://arxiv.org/abs/2512.05290). Submittted to Statistical Science (2025+). Received the 2026 [**Mihaela Serban award**](https://www.cmu.edu/dietrich/statistics-datascience/about/awards/index.html)
 
 Carzon, J., Masserano, L., Shen, A., Ingram, J., **Ribeiro Junior, A. C. H.**, Dorigo, T., Doro, M., Speagle, J. Izbicki, R., Lee, A. [Trustworthy scientific inference for inverse problems with generative models](https://arxiv.org/abs/2508.02602). Submitted to Machine Learning: Science and Technology (2025+)
 
