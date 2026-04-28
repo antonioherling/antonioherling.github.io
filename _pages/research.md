@@ -18,7 +18,7 @@ Papers
 
 **Ribeiro Junior, A. C. H.**, Branson, Z. Quantile-balanced Rerandomization. In preparation (2026+)
 
-**Ribeiro Junior, A. C. H.** [Langevin-Gradient Rerandomization](https://arxiv.org/pdf/2604.07524). Submitted to Statistics and Computing (2026+)
+**Ribeiro Junior, A. C. H.** [Langevin-Gradient Rerandomization](https://arxiv.org/abs/2604.07524). Submitted to Statistics and Computing (2026+)
 
 **Ribeiro Junior, A. C. H.**, Branson, Z. [Does Rerandomization Help Beyond Covariate Adjustment? A Review and Guide for Theory and Practice](https://arxiv.org/abs/2512.05290). Submittted to Statistical Science (2025+). Received the 2026 [**Mihaela Serban award**](https://www.cmu.edu/dietrich/statistics-datascience/about/awards/index.html)
 
