@@ -14,7 +14,7 @@ Papers
 
 **Ribeiro Junior, A. C. H.** Rerandomization with Continuous Treatments. In preparation (2026+)
 
-**Ribeiro Junior, A. C. H.**, Branson, Z. Pilot-Informed Rerandomization with High-Dimensional Covariates. In preparation (2026+)
+**Ribeiro Junior, A. C. H.**, Branson, Z., Ben-Michael, E. Pilot-Informed Rerandomization with High-Dimensional Covariates. In preparation (2026+)
 
 **Ribeiro Junior, A. C. H.**, Branson, Z. Quantile-balanced Rerandomization. In preparation (2026+)
 
